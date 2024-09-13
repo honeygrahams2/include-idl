@@ -1,0 +1,1 @@
+Thanks to @ngundotra for this code:  https://github.com/nifty-oss/asset/tree/main/include-idl
